@@ -4,7 +4,8 @@ A version of roy, the reddit tts bot I made but I made it more user friendly
 # Setup
 1. Clone the repo
 
-      `$ git clone https://github.com/Ultra0Chad/ShavedRoy`
+      `$ git clone https://github.com/Ultra0Chad/ShavedRoy` <br>
+      Keep the command prompt open
 
 2. Go to the reddit apps page
 
