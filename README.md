@@ -32,7 +32,7 @@ A version of roy, the reddit tts bot I made but I made it more user friendly
       
 6. Start your stream and copy your stream id
 
-      The stream id is the code after the subreddit link. Example:
+      The stream id is the code after the subreddit link. Example: <br>
       `https://www.reddit.com/rpan/r/talentShow/l5j7mp?related=home stream id : l5j7mp`
       
 7. Run shaved.py
