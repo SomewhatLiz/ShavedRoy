@@ -2,9 +2,9 @@
 A version of roy, the reddit tts bot I made but I made it more user friendly
 
 # Setup
-0. Download Python and Git
-      https://www.youtube.com/watch?v=UvcQlPZ8ecA&ab_channel=ProgrammingKnowledge2
-      https://www.youtube.com/watch?v=nbFwejIsHlY&t=1s&ab_channel=TheGrokShop
+0. Download Python and Git<br>
+      Python: https://www.youtube.com/watch?v=UvcQlPZ8ecA&ab_channel=ProgrammingKnowledge2<br>
+      Git: https://www.youtube.com/watch?v=nbFwejIsHlY&t=1s&ab_channel=TheGrokShop
 
 1. Clone the repo
 
